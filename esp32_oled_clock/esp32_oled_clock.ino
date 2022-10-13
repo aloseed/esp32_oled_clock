@@ -4,7 +4,7 @@
    NTPサーバーで時刻合わせをしたのち、OLED(SSD1306)で時刻を表示します。
 
    Licence:
-      [MIT](https://github.com/aloseed/esp32_oled_clock/LICENSE)
+      [MIT](https://github.com/aloseed/esp32/LICENSE)
 
    Author:
       [alocchi](https://twitter.com/aloseed_blog)
