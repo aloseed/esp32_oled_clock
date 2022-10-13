@@ -4,7 +4,8 @@
    NTPサーバーで時刻合わせをしたのち、OLED(SSD1306)で時刻を表示します。
 
    Licence:
-      [MIT](https://github.com/aloseed/esp32/LICENSE)
+      Copyright (c) 2022 alocchi
+      This software is released under the MIT License, see LICENSE.
 
    Author:
       [alocchi](https://twitter.com/aloseed_blog)
